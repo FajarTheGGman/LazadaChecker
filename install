@@ -2,5 +2,5 @@
 clear
 apt-get install figlet -y
 figlet Installing
-apt-get install node -y
+apt-get install nodejs -y
 npm install request readline
